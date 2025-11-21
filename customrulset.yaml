@@ -29,4 +29,6 @@ payload:
   - 'youtubei.googleapis.com'
   - 'yt-video-upload.l.google.com'
   - 'wide-youtube.l.google.com'
+  - 'gemini.google.com'
+  - '+.google.dev'
   - '+.google.com'
