@@ -33,3 +33,6 @@ payload:
   - 'gemini.google.com'
   - '+.google.dev'
   - '+.google.com'
+  - '+.cbilling.eu'
+  - 'cbilling.eu'
+  - 'cbilling.online'
